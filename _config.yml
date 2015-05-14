@@ -203,6 +203,8 @@ sp_docs_menu:
       title: Setting up Development and Production Environments
     - url: /guides/api-key-management
       title: Using Stormpath for API Authentication
+    - url: /guides/authorization-guide
+      title: Using Stormpath for Authorization
 
   common:
     - url: /how-do-i
